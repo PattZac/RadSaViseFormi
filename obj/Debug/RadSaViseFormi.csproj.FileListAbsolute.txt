@@ -1,0 +1,11 @@
+C:\Users\korisnik\source\repos\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe.config
+C:\Users\korisnik\source\repos\RadSaViseFormi\bin\Debug\RadSaViseFormi.exe
+C:\Users\korisnik\source\repos\RadSaViseFormi\bin\Debug\RadSaViseFormi.pdb
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.FormStudenti.resources
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.FormUnosNovogStudenta.resources
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.Properties.Resources.resources
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.exe
+C:\Users\korisnik\source\repos\RadSaViseFormi\obj\Debug\RadSaViseFormi.pdb
